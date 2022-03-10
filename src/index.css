@@ -1,0 +1,218 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body{
+  font-family: 'Nanum Gothic Coding', monospace;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.space{
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+}
+.bg1{
+  background: #363936;
+  position: relative;
+}
+.bg2{
+  background: #D48064;
+  position: relative;
+}
+.bg3{
+  background: #C19CA0;
+  position: relative;
+}
+.bg4{
+  background: #8DB38D;
+  position: relative;
+}
+.bg5{
+  background: #ABBDE7;
+  position: relative;
+}
+.portrait1{
+  position: absolute;
+  left: 100px;
+  bottom: 0;
+  width: 700px;
+}
+.title1{
+  position: absolute;
+  left: 300px;
+  width: 300px;
+  top: 10px;
+}
+#textbox1{
+  position: relative;
+  margin-top: 350px;
+  padding-left: 20px;
+}
+
+#textbox1 .txt1{
+  color: white;
+  font-size: 30px;
+  font-weight: 500;
+}
+#textbox1 .txt2{
+  color: white;
+  font-size: 70px;
+  font-weight: 500;
+}
+
+#textbox1 .txt3{
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.portrait2{
+  position: absolute;
+  left: 0px;
+  bottom: 0;
+  width: 850px;
+  z-index: 1001;
+}
+#textbox2{
+  position: relative;
+  margin-top: 100px;
+  padding-right: 40px;
+  text-align: right;
+}
+#textbox2 .txt1{
+  color: white;
+  font-size: 25px;
+}
+#textbox2 .txt2{
+  color: white;
+  font-size:80px;
+  font-weight: bold;
+}
+#textbox2 .txt3{
+  color: white;
+  font-size: 25px;
+  font-weight: 500;
+  padding-top: 20px;
+}
+.title2{
+  position: absolute;
+  right: 40px;
+  width: 250px;
+  bottom: 30px;
+}
+#textbox3{
+  position: relative;
+  margin-top: 310px;
+  padding-right: 40px;
+  text-align: right;
+}
+#textbox3 .txt4{
+  color: white;
+  font-size: 25px;
+}
+.portrait3{
+  position: absolute;
+  left: 20%;
+  bottom: 0;
+  width: 60%;
+  z-index: 1002;
+}
+.title3{
+  position: absolute;
+  right: 60px;
+  width: 600px;
+  bottom: 30px;
+  z-index: 1000;
+}   
+#textbox4{
+  position: relative;
+  margin-top: 210px;
+  padding-left: 40px;
+}
+#textbox4 .txt1{
+  color: white;
+  font-size: 25px;
+}
+#textbox4 .txt2{
+  color: white;
+  font-size: 90px;
+  font-weight: 500;
+  line-height: 1;
+}
+#textbox4 .txt3{
+  color: white;
+  font-size: 30px;
+  font-weight: 500;
+  padding-top: 20px;
+}
+#textbox5{
+  position: relative;
+  margin-top: 210px;
+  padding-right: 40px;
+  text-align: right;
+}
+#textbox5 .txt1{
+  color: black;
+  font-size: 30px;
+}
+#textbox5 .txt2{
+  color: black;
+  font-size: 90px;
+  font-weight: 500;
+  line-height: 1;
+}
+#textbox5 .txt3{
+  color: black;
+  font-size: 20px;
+  font-weight: 500;
+  padding-top: 20px;
+}
+#textbox5 .txt4{
+  color: black;
+  font-size: 25px;
+  font-weight: 500;
+  padding-top: 20px;
+}
+.portrait4{
+  position: absolute;
+  left: 10px;
+  bottom: 0;
+  width: 800px;
+}
+.portrait5{
+  position: absolute;
+  left: 100px;
+  bottom: 0;
+  width: 700px;
+}
+#textbox6{
+  position: relative;
+  margin-top: 400px;
+  padding-left: 20px;
+}
+#textbox6 .txt1{
+  color: white;
+  font-size: 30px;
+}
+#textbox6 .txt2{
+  color: white;
+  font-size: 70px;
+  font-weight: 500;
+}
+#textbox6 .txt3{
+  color: white;
+  font-size: 25px;
+  font-weight: 500;
+  padding-top: 20px;
+}
+ 
